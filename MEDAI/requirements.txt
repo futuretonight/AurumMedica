@@ -1,0 +1,14 @@
+# requirements.txt
+torch
+torchvision
+psutil
+timm                       # For efficient vision models
+sentence-transformers      # For powerful text embeddings
+faiss-cpu                  # For the RAG vector library
+pandas
+scikit-learn
+tqdm
+customtkinter
+PyMuPDF
+fitz
+faiss-cpu
