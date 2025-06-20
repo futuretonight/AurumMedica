@@ -11,4 +11,7 @@ tqdm
 customtkinter
 PyMuPDF
 fitz
-faiss-cpu
+transformers
+datasets
+sentence-transformers
+accelerate
